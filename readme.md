@@ -35,11 +35,11 @@ Data have been acquired from the official [Istat](https://www.istat.it/) dataset
 
 ## Project's Infrastructure
 
-![infrastructure](./infrastructure.png)
+![infrastructure](./infrastructure.svg)
 
 ## Database Schema
 
-![DB schema](./schema.png)
+![DB schema](./schema.svg)
 
 ---
 
@@ -65,7 +65,7 @@ Docker Setup for Production deployment. Kafka queues and scheduled services have
 
 ## Contents
 
-### [<em>infrastructure.png</em>](./infrastructure.png)
+### [<em>infrastructure.svg</em>](./infrastructure.svg)
 
 Project's infrastructure overview
 
@@ -73,7 +73,7 @@ Project's infrastructure overview
 
 List of DB users after importing [DB dump](./stateadb_dump.sql)
 
-### [<em>schema.png</em>](./schema.png)
+### [<em>schema.svg</em>](./schema.svg)
 
 DB schema diagram
 

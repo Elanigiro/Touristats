@@ -2,7 +2,7 @@
 
 This is a web application that gathers and analyses data about the tourism industry in Sardinia. 
 
-Data has been acquired from the official [Istat](https://www.istat.it/) datasets.
+Data have been acquired from the official [Istat](https://www.istat.it/) datasets.
 
 ---
 

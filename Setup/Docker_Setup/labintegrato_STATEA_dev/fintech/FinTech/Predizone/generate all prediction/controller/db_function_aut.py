@@ -4,10 +4,10 @@ import pandas as pd
 # Function to connect to the database
 def connector():
   mydb = mysql.connector.connect(
-  host="localhost",
+  host="db",
   user = "stateadb_read",
   password = "kS4YSErXgO8A*ssJ",
-  port="9906",
+  port="3306",
   database="stateadb"
   )
   
